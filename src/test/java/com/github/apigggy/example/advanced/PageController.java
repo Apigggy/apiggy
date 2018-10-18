@@ -1,7 +1,6 @@
 package com.github.apigggy.example.advanced;
 
 import com.github.apigggy.example.common.*;
-import com.github.ayz6uem.apiggy.example.common.*;
 import com.github.apigggy.example.hello.Greeting;
 import org.jruby.ir.Tuple;
 import org.springframework.stereotype.Controller;

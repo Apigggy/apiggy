@@ -1,7 +1,6 @@
 package com.github.apigggy.example.advanced;
 
 import com.github.apigggy.example.common.*;
-import com.github.ayz6uem.apiggy.example.common.*;
 import org.springframework.http.ResponseEntity;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
