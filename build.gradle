@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-group 'com.github.apigggy'
+group 'com.github.apiggs'
 version '1.0'
 
 sourceCompatibility = 1.8
