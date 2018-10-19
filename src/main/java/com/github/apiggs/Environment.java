@@ -29,7 +29,7 @@ public class Environment {
 
     public static final Path DEFAULT_PRODUCTION = Paths.get("apiggs");
     public static final Path DEFAULT_SOURCE_STRUCTURE = Paths.get("src","main","java");
-
+  
     Logger log = LoggerFactory.getLogger(this.getClass());
 
     /**
@@ -62,6 +62,7 @@ public class Environment {
      * or just some code
      * default: parse user.dir 's code
      */
+
     private Set<Path> sources = Sets.newHashSet();
 
     /**
