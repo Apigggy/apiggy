@@ -2,6 +2,7 @@
 
 ![](https://img.shields.io/badge/language-java-yellow.svg)
 ![](https://img.shields.io/badge/build-processing-green.svg)
+[ ![Download](https://api.bintray.com/packages/apiggs/maven/apiggs/images/download.svg) ](https://bintray.com/apiggs/maven/apiggs/_latestVersion)
 
 A rest document generator with parse the source code.
 
